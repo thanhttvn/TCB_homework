@@ -1,4 +1,3 @@
 python==3.6.9
-flask==
 flask-expects-json==1.5.0
 Flask==2.0.1
